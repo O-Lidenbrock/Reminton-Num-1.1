@@ -40,3 +40,16 @@ I went through the schematic and changed the footprint key sizes. That's when I 
 This board needs bluetooth (esp32), enough pins, well-documented, and cheap. I could try a SEEED board but I'd like some arduino experience so I'm doing the Nano Esp32 with a step-up. There's also this image on one of the [docs](https://docs.arduino.cc/tutorials/nano-esp32/cheat-sheet/) showing a possible direct power from battery option. It needs EXACTLY 3.3v, though, and disables the usb-c power, so I guess I'd need a step-down in my schematic. I'll figure this out after - I know the Nano is the board I want.
 
 ![Arduino docs screencap](assets/Nano_battery_option.png)
+
+#### 7_20_2025 Schematic + PCB V3
+
+*1.5h* Many of my keys are non-standard sizes, like the enter and caps lock which I made 2.5u. It's cheaper to buy ANSI keycaps, so I rewrote the board based on ANSI sizes. The arrows stick out, but I need a place for the board anyway so it's fine. New layout:
+![New ANSI Safe layout](assets/ANSI_layout.png)
+
+*1h* Researched some more, and found out the Nice!Nano V2 is a very popular chip for wireless boards. Read for a while about connecting it to batteries and such.
+
+*3h* Sooo the Nice nano only has 18 GPIO pins and I have 14 columns + 5 rows = 19 pins needed. However, I only need 65 keys: 13*5. So I'm deleting the final row and moving the keys where I need them.
+![Schematic Version 3, now 13x5](assets/Schematic_V3.png)
+
+With 13 columns and 5 rows, I use all the pins. It took a while to route the individual keys, and tomorrow I'll finish by connecting lines to the board. Might need to shuffle around things to keep the rat's nest simpler.
+![PCB editor screenshot with col and rows routed](assets/PCB_V3.png)
