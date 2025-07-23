@@ -6,5 +6,5 @@ MVP is battery-powered custom 65% keyboard with full-sized arrow keys.
 ### BOM
 
 | Item | Quantity | Cost | URL |
-| *** | ********* | **** | *** |
+| --- | --------- | ---- | ---- |
 | Gateron Red | 70 | 23.10 | https://www.aliexpress.us/item/3256806189709905.html? |
