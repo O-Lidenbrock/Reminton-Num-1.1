@@ -1,13 +1,13 @@
 ---
 title: "Remington 1.1"
 author: "Stephen McAllister"
-description: "Custom keyboard layout: 60% with arrow keys. BT and battery-powered."
+description: "Custom keyboard layout: 60% with arrow keys. BLE and battery-powered."
 created_at: "2025-07-03"
 ---
 
 #### 7_3_2025 Design key layout
 
-*1.2h* I want this to be a very small, bluetooth enabled, battery powered keyboard. I like the Drop Alt board design, so I'm aiming for something like that.
+*1.2h* I want this to be a very small, BLE enabled, battery powered keyboard. I like the Drop Alt board design, so I'm aiming for something like that.
 
 Getting full arrow keys (where the up/down keys aren't .5u tall) wreaks havoc with spacing. I got rid of the right shift key. 
 
