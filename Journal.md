@@ -58,4 +58,27 @@ With 13 columns and 5 rows, I use all the pins. It took a while to route the ind
 
 *20min* Connected ratsnest to the board. It's a bit messy - might be worth shifting around pins and things.
 
-![Full board](image.png)
+#### 7_23_2025 Finish PCB
+
+*1h* Fixed the ratsnest. Gave the wires correct clearance and tightened up the edges of the PCB. The stabilizer holes on the backspace button are in a really annoying position, but got around them eventually.
+![Completed PCB Wiring](Assets/PCB_V4.png)
+
+#### 7_27_2025 Finish CAD
+
+*2h* Fought with the switch model for a while, trying to figure out configurations. The final switch model has a configuration for each size of keycap, which makes it easy to switch them around on the board design. Next time I try this it will go faster
+![Switch Configurations](Assets/SwitchCADConfigurations_Screenshot.png)
+
+*1.5h* Making the base and lid was straightforward. Deciding on a height for the base took a bit - I used my completed macropad to estimate how high on the switch the base should be, then extruded it to that plane in F3D. The PCB sits on a little ledge + has 5 mounting holes.
+![Case Base w/ PCB](Assets/CaseAndPCB.png)
+
+#### 7_28_2025 Completing
+
+*1h* Realized the support ledge interfered with the Nano pins and a stabilizer, so went back and changed the sketch. Sometimes Fusion's history is very useful. Also added mounting holes: I'm using all M3 heatset mounts everywhere.
+
+Added a ground plane (not connected to anything tho bc this is battery powered)
+
+*1h* Recheck board, generate gerbers, put all my files in the repo
+
+*45m* Create BOM and find all the parts.
+
+*45m* Finish Journal + Readme + submit project
