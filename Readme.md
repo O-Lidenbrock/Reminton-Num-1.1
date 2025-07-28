@@ -1,4 +1,4 @@
-![Keyboard Render](assets/render-1.png)
+![Keyboard Render](Assets/render-1.png)
 
 The Remington #2 was the first typewriter with "macros" - it typed lowercase or uppercase based on whether the user was holding the Shift key. This modern, battery powered keyboard is much smaller and more portable than that original typewriter, but has lost a key. Since this layout is missing the right Shift, it's a version before the Remington #2 - the Remington #1.1
 
@@ -33,4 +33,4 @@ Lid
 ![Lid_CAD](Assets/Lid_CAD.png)
 
 ### Key Layout
-![Key layout](assets/ANSI_layout.png)
+![Key layout](Assets/ANSI_layout.png)
