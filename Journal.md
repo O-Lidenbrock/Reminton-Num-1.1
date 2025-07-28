@@ -5,7 +5,7 @@ description: "Custom keyboard layout: 60% with arrow keys. BLE and battery-power
 created_at: "2025-07-03"
 ---
 
-> 📘 Total Time:  20.4 hours
+> 📘 Total Time:  21 hours
 
 #### 7_3_2025 Design key layout
 
