@@ -2,6 +2,8 @@
 
 The Remington #2 was the first typewriter with "macros" - it typed lowercase or uppercase based on whether the user was holding the Shift key. This modern, battery powered keyboard is much smaller and more portable than that original typewriter, but has lost a key. Since this layout is missing the right Shift, it's a version before the Remington #2 - the Remington #1.1
 
+I built this to have a keyboard to use in college. Since it's battery powered, I can throw it in my backpack and use it wherever I'm studying.
+
 
 ### BOM
 
