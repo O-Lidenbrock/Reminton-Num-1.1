@@ -53,3 +53,9 @@ This board needs bluetooth (esp32), enough pins, well-documented, and cheap. I c
 
 With 13 columns and 5 rows, I use all the pins. It took a while to route the individual keys, and tomorrow I'll finish by connecting lines to the board. Might need to shuffle around things to keep the rat's nest simpler.
 ![PCB editor screenshot with col and rows routed](assets/PCB_V3.png)
+
+#### 7_23_2025
+
+*20min* Connected ratsnest to the board. It's a bit messy - might be worth shifting around pins and things.
+
+![Full board](image.png)
