@@ -81,4 +81,6 @@ Added a ground plane (not connected to anything tho bc this is battery powered)
 
 *45m* Create BOM and find all the parts.
 
+*30m* Write Firmware
+
 *45m* Finish Journal + Readme + submit project
