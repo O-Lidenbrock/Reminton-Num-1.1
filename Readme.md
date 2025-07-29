@@ -18,7 +18,7 @@ I built this to have a keyboard to use in college. Since it's battery powered, I
 | 3D Printed Case         | 1   | Free                          | Self-printed                                                        |
 | 601230 3.7V 200mAh Battery | 1 | 12.39                        | https://www.aliexpress.us/item/2251832650224851.html        |
 | M3 Heatset Inserts      | 1   | $4.62                         | https://www.aliexpress.us/item/3256804442999990.html        |
-
+| Nano Headers/Sockets    | 1   | Free                          | From my own stock                                           |                     
 Total: $105.40 USD
 
 ### Schematic
