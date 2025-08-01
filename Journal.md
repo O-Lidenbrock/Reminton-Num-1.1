@@ -5,7 +5,7 @@ description: "Custom keyboard layout: 60% with arrow keys. BLE and battery-power
 created_at: "2025-07-03"
 ---
 
-> 📘 Total Time:  21 hours
+> 📘 Total Time:  23 hours
 
 #### 7_3_2025 Design key layout
 
@@ -86,3 +86,12 @@ Added a ground plane (not connected to anything tho bc this is battery powered)
 *30m* Write Firmware
 
 *45m* Finish Journal + Readme + submit project
+
+#### 7_31_2025
+
+*2h* Switched the case design to something that looks more like the original typewriters. Picked a set of tan keycaps to match.
+Most of the work was getting the spline to extrude nicely over the supports. 
+![Side Profile](Assets/side_profile.png)
+
+I tilted the board 7 degrees to make typing easier.
+![Tilted Board](Assets/tilted.png)
