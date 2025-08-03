@@ -15,7 +15,7 @@ Getting full arrow keys (where the up/down keys aren't .5u tall) wreaks havoc wi
 
 Having func keys tertiary to the num row is fine, but I want a completely seperate esc and del key, so dropped those on the right near the arrow keys. In a final version those might just be macros.
 
-![Initial Keyboard Layout](Assets/initial_layout.png)
+![Initial Keyboard Layout](Assets/Initial_layout.png)
 
 ---
 
