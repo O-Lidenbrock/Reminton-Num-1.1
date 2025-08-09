@@ -95,3 +95,5 @@ Most of the work was getting the spline to extrude nicely over the supports.
 
 I tilted the board 7 degrees to make typing easier.
 ![Tilted Board](Assets/tilted.png)
+
+https://www.youtube.com/watch?v=7azQkSu0m_U
