@@ -5,7 +5,7 @@ description: "Custom keyboard layout: 60% with arrow keys. BLE and battery-power
 created_at: "2025-07-03"
 ---
 
-> 📘 Total Time:  23 hours
+> 📘 Total Time:  30 hours
 
 #### 7_3_2025 Design key layout
 
@@ -96,4 +96,26 @@ Most of the work was getting the spline to extrude nicely over the supports.
 I tilted the board 7 degrees to make typing easier.
 ![Tilted Board](Assets/tilted.png)
 
-https://www.youtube.com/watch?v=7azQkSu0m_U
+This is the final base I got, but feedback on the server was that it still isn't complex enough. Next move: add a plate and keep modifying the case. I think I'll need to completely rebuild the model.
+![Keyboard_V3](Assets/Keyboard_V3.png)
+
+
+#### 8_8_2025
+
+*4h* I rebuilt the case to use a plate mount instead of screwing the pcb in (left the pcb drill holes in case I change it in the future.) To rebuild the case, I started with a side profile and a base:
+![Side profile sketch](Assets/Case_V4_side-profile-sketch.png)
+
+Off of this side profile, I designed a bottom base that supports the plate and has the decorative sides. 
+![Case Bottom](Assets/Case_V4.png)
+I watched this ScottoKeebs video to get an idea of how to design the plate: https://www.youtube.com/watch?v=7azQkSu0m_U
+
+Then, I designed a plate that bolts in with M3 screws and inserts.  
+![Plate-and-Case](Assets/Plate-and-Case.png)
+
+
+#### 8_15_2025
+
+*30m* Added some quotes and a depressed profile on both sides. Left is Stephen King and right is Ernest Hemingway.  
+![Case Left](Assets/Case_V4_left.png)  ![Case Right](Assets/Case_V4_right.png)
+
+*30m* Catch up Journal and submit.
