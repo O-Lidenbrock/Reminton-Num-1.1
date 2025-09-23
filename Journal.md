@@ -5,7 +5,7 @@ description: "Custom keyboard layout: 60% with arrow keys. BLE and battery-power
 created_at: "2025-07-03"
 ---
 
-> 📘 Total Time:  30 hours
+> 📘 Total Time:  33.5 hours
 
 #### 7_3_2025 Design key layout
 
@@ -141,3 +141,5 @@ It ended up being $15 more expensive than just soldering the diodes myself, so I
 Changes:
 > Added headers for
 > Stabilizers can't be shipped, went from $2.96 to $6.68
+
+*30m* Start ordering
