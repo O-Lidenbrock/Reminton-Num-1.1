@@ -143,3 +143,38 @@ Changes:
 > Stabilizers can't be shipped, went from $2.96 to $6.68
 
 *30m* Start ordering
+
+#### 10_13_2025
+
+*2hr* Begin build. I realized these keyswitches are three prong instead of 5 prong, so the plate will have to do the alignment and stabilization. The makerspace only has 3mm acrylic and the plate clips on the switches are 1.5mm so I need to figure out what to do there.
+
+3d printed two different test pieces, to see how the switches and keycaps will fit. Realized my stabilizers don't fit the normal stabilizer hole, so I added a few mm on each side to let the stabs all the way through the plate. Lasered a test in 3mm acrylic and it worked.
+
+![Acrylic Plate Test Piece](Assets/Plate-test-acrylic.jpg)
+![Plate test piece with switches](Assets/Plate-test-w-switches.jpg)
+#### 10_14_2025
+
+*1h* Start soldering in diodes on the board.
+
+#### 10_15_2025
+
+*3h* Laser the full plate (with extended stab holes), solder in some of the switches. Keeping them flush while soldering is hard, I'm soldering some in, then holding the board upright and remelting the solder to shove the switch in more.
+
+#### 10_16_2025
+
+*2h* Finished soldering in all the switches
+
+![Completed Plate with switches](Assets/complete-plate-w-keys.jpg)
+
+*1h* Fought with a JST RCY connector to get the battery connected to the NiceNanov2
+![Battery Leads soldered to Nice Nano](Assets/battery-leads.jpg)
+
+#### 10_20_2025
+
+*1h* Tried to write the firmware. Using AI bc ZMK docs are confusing
+
+*1h* Fixed the code bc the AI can't write keymaps or shields. Got a custom shield written
+
+#### 10_21_2025
+
+*20m* Fixed the keymap and finished the build process. Ready to flash the keeb
