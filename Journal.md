@@ -178,3 +178,17 @@ Changes:
 #### 10_21_2025
 
 *20m* Fixed the keymap and finished the build process. Ready to flash the keeb
+
+*2.2h* 
+Switched to row2col and it crashed out, I think it typed every key. So the computer crashed out. The other option is I have a short in one of the matrix rows, probably the last one, but it's typing numbers too so idk.
+
+It connected to BT but wouldn't type, so I enabled logging in the build.yaml file with ```snippet: zmk-usb-logging```
+
+I installed PutTTy for debugging
+
+Pulled the switches high instead of low and it works (some keys don't fire but that's a matrix issue)
+
+Realized the entire row five wasn't working using Putty. Checked the traces on the pcb and in KiCad, so it must be an overlay problem. Had the wrong pin marked (16 when it was 06)
+
+Fought with flipping around a bunch of keys before i realized I just had three column pins flipped around.
+WORKS!
